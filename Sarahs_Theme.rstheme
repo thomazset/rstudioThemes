@@ -10,14 +10,14 @@
 }
 
 .ace_print-margin {
-  width: 20px;
+  width: 2px;
   background: #ff0000;
 }
 
 /* background forground */
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
   background-color: #000000;
-  color: #8BE096;
+  color: #000000;
 }
 
 /* write cursor color*/
@@ -75,7 +75,7 @@
 
 /* operator signs*/
 .ace_keyword.ace_operator {
-  color: #ffffff;
+  color: #FF6600;
 }
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
