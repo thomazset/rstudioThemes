@@ -17,7 +17,7 @@
 /* background forground */
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
   background-color: #000000;
-  color: #8BE096;
+  color: ##FFFF00;
 }
 
 /* write cursor color*/
@@ -102,7 +102,7 @@
 /* strings */
 .ace_string {
   font-style: normal;
-  color: ##FFFF00;
+  color: #33CC00;
 
 }
 
