@@ -80,7 +80,7 @@
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
 .ace_constant.ace_language {
-  color: #ffffff;
+  color: #FF00FF;
 }
 
 /* Numbers */
