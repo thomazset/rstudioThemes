@@ -4,8 +4,6 @@
 /* Edited by Sarah Thomaz
 /* Version: v1.0 */
 
-/* "This your last chance. After this there is no turning back. You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to. But if you take the red pill..." */
-
 .ace_gutter {
   background: #0c0c0c;
   color: #8be09694;
@@ -82,7 +80,7 @@
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
 .ace_constant.ace_language {
-  color: #ff0000;
+  color: #ffffff;
 }
 
 /* Numbers */
@@ -104,19 +102,19 @@
 /* strings */
 .ace_string {
   font-style: normal;
-  color: #ffffffd6;
+  color: #006600;
 
 }
 
 /* comment text */
 .ace_comment {
   font-style: italic;
-  color: #ffffff66;
+  color: #0000CC;
   background-color: rgba(255, 255, 255, 0);
 }
 
 .ace_variable {
-  color: #ebff00;
+  color: #9900FF;
 
 }
 
