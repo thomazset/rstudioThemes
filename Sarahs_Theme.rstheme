@@ -102,7 +102,7 @@
 /* strings */
 .ace_string {
   font-style: normal;
-  color: #006600;
+  color: ##FFFF00;
 
 }
 
