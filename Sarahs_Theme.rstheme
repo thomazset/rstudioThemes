@@ -109,12 +109,12 @@
 /* comment text */
 .ace_comment {
   font-style: italic;
-  color: #0000CC;
+  color: #00CCFF;
   background-color: rgba(255, 255, 255, 0);
 }
 
 .ace_variable {
-  color: #9900FF;
+  color: #ffffff;
 
 }
 
