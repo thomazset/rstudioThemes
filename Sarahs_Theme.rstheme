@@ -69,7 +69,7 @@
 
 /* library/ if/ else and code line in consol */
 .ace_keyword {
-  color: #ffffff;
+  color: #FF0000;
 
 }
 
@@ -80,7 +80,7 @@
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
 .ace_constant.ace_language {
-  color: #FF00FF;
+  color: #FF0000;
 }
 
 /* Numbers */
