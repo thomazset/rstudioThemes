@@ -75,7 +75,7 @@
 
 /* operator signs*/
 .ace_keyword.ace_operator {
-  color: #FFFF00;
+  color: #FFFFFF;
 }
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
@@ -85,7 +85,7 @@
 
 /* Numbers */
 .ace_constant.ace_numeric {
-  color: #00d1f7;
+  color: #FF9900;
 }
 
 /* markdown chunks (1st and last line) */
@@ -114,7 +114,7 @@
 }
 
 .ace_variable {
-  color: #ffffff;
+  color: #FFFF00;
 
 }
 
