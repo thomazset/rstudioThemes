@@ -1,4 +1,4 @@
-/* rs-theme-name: matrix_NoGlow */
+/* rs-theme-name: AASarahsTheme */
 /* rs-theme-is-dark: TRUE */
 /* Created by Alessio Maggiorelli */
 /* Edited by Sarah Thomaz
@@ -85,7 +85,7 @@
 
 /* Numbers */
 .ace_constant.ace_numeric {
-  color: #FF9900;
+  color: #FF0000;
 }
 
 /* markdown chunks (1st and last line) */
