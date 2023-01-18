@@ -75,7 +75,7 @@
 
 /* operator signs*/
 .ace_keyword.ace_operator {
-  color: #FF0000;
+  color: #CC00FF;
 }
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
