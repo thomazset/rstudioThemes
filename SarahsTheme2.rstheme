@@ -85,7 +85,7 @@
 
 /* Numbers */
 .ace_constant.ace_numeric {
-  color: #FF0000 ;
+  color: #00FFFF;
 }
 
 /* markdown chunks (1st and last line) */
@@ -102,7 +102,7 @@
 /* strings */
 .ace_string {
   font-style: normal;
-  color: #FFFFFF;
+  color: #FF0000;
 
 }
 
