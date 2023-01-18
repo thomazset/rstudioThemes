@@ -69,7 +69,7 @@
 
 /* library/ if/ else and code line in consol */
 .ace_keyword {
-  color: #21799e;
+  color: #d02c64;
 
 }
 
