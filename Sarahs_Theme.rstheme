@@ -69,13 +69,13 @@
 
 /* library/ if/ else and code line in consol */
 .ace_keyword {
-  color: #FF0000;
+  color: #00CCFF;
 
 }
 
 /* operator signs*/
 .ace_keyword.ace_operator {
-  color: #00CCFF;
+  color: ##FF0000;
 }
 
 /* TRUE/FALSE/NA & Warning msgs in console*/
